@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/01-mo-cs/geneeskunde/anemie/","noteIcon":"","created":"2024-11-24T10:55:02.885+01:00","updated":"2024-12-29T15:07:30.738+01:00"}
+{"dg-publish":true,"permalink":"/01-mo-cs/geneeskunde/anemie/","noteIcon":"","created":"2024-11-24T10:55:02.885+01:00","updated":"2024-12-29T15:07:33.864+01:00"}
 ---
 
 #Hematologie 
-/pub
+
 # Kliniek
 
 ==Anamnese==
