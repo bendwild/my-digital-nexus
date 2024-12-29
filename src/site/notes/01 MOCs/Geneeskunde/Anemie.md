@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/01-mo-cs/geneeskunde/anemie/","noteIcon":"","created":"2024-11-24T10:55:02.885+01:00","updated":"2024-12-29T13:58:43.464+01:00"}
+{"dg-publish":true,"permalink":"/01-mo-cs/geneeskunde/anemie/","noteIcon":"","created":"2024-11-24T10:55:02.885+01:00","updated":"2024-12-29T15:07:30.738+01:00"}
 ---
 
 #Hematologie 
-
+/pub
 # Kliniek
 
 ==Anamnese==
@@ -37,7 +37,7 @@
 > [!important]  
 > Anemie is GEEEN diagnose → zoek altijd de oorzaak → VERLIES / AFBRAAK / ↓ AANMAAK  
 
-### Microcytair (<80fL)
+### Microcytair (minder dan 80fL)
 
 > [!important]  
 > ↓ maturatie cytoplasma → Hb-concentratie in cel wordt niet bereikt → celdeling ter compensatie  
