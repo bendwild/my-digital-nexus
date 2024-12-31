@@ -1,10 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/01-mo-cs/geneeskunde/elleboog/","noteIcon":"","created":"2024-11-24T10:55:11.157+01:00","updated":"2024-12-29T13:58:43.842+01:00"}
+{"dg-publish":true,"permalink":"/01-mo-cs/geneeskunde/elleboog/","noteIcon":"","created":"2024-11-24T10:55:11.157+01:00","updated":"2024-12-31T15:19:37.245+01:00"}
 ---
 
-#Bewegingsstelsel #Orthopedie
-{ #tr-ozm4hkaja}
-
+#Bewegingsstelsel #Orthopedie 
 
 ### Elleboogluxatie
 

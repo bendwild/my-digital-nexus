@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/01-mo-cs/geneeskunde/klinische-consultvoering/","noteIcon":"","created":"2024-11-24T10:56:34.423+01:00","updated":"2024-12-29T13:58:44.108+01:00"}
+{"dg-publish":true,"permalink":"/01-mo-cs/geneeskunde/klinische-consultvoering/","noteIcon":"","created":"2024-11-24T10:56:34.423+01:00","updated":"2024-12-31T15:26:23.855+01:00"}
 ---
 
-#Klinische-vaardigheden #Communicatie
-{ #tr-80rm6nod9}
+#Klinische-vaardigheden #Communicatie 
 
 
 # Patiëntenspoor

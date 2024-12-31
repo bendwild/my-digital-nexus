@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/01-mo-cs/geneeskunde/injecties/","noteIcon":"","created":"2024-11-24T10:56:36.882+01:00","updated":"2024-12-29T13:58:44.078+01:00"}
+{"dg-publish":true,"permalink":"/01-mo-cs/geneeskunde/injecties/","noteIcon":"","created":"2024-11-24T10:56:36.882+01:00","updated":"2024-12-31T15:00:33.757+01:00"}
 ---
 
-#Klinische-vaardigheden
-{ #tr-uh5s4898a}
+#Klinische-vaardigheden 
+
 
 
 ### Materiaal

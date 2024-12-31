@@ -1,13 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/04-vaults/videos/why-do-poor-countries-stay-poor-unequal-exchange-and-imperialism/","title":"Why Do Poor Countries Stay Poor? (Unequal Exchange and Imperialism)","tags":["clippings","Dekolonisatie"],"noteIcon":"","created":"2024-12-27T01:55:16.540+01:00","updated":"2024-12-29T13:58:44.819+01:00"}
+{"dg-publish":true,"permalink":"/04-vaults/videos/why-do-poor-countries-stay-poor-unequal-exchange-and-imperialism/","title":"Why Do Poor Countries Stay Poor? (Unequal Exchange and Imperialism)","tags":["clippings","Dekolonisatie"],"noteIcon":"","created":"2024-12-27T01:55:16.540+01:00","updated":"2024-12-31T14:51:13.726+01:00"}
 ---
 
-![](https://www.youtube.com/watch?v=rjLmYCfKU7o)  
 
-Support me on Patreon: https://www.patreon.com/ComradeHakim  
-Podcast: https://open.spotify.com/show/7tk1sTZDeE8p9lnxYLy4Ky  
-Twitter: @YaBoiHakim  
-  
 00:00 Introduction  
 00:14 Mandatory Parenti Quote  
 01:16 The Paper; Just how much is transferred from South to North?  
