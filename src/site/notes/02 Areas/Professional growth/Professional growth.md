@@ -3,9 +3,9 @@
 ---
 
 - 02 Areas/Professional growth: 
-    - [[02 Areas/Professional growth/Doctor lovejunkie\|Doctor lovejunkie]]
     - [[02 Areas/Professional growth/Raise your patients\|Raise your patients]]
     - [[02 Areas/Professional growth/Well-rounded\|Well-rounded]]
+    - [[02 Areas/Professional growth/Doctor lovejunkie\|Doctor lovejunkie]]
     - [[02 Areas/Professional growth/Professional growth\|Professional growth]]
 
 

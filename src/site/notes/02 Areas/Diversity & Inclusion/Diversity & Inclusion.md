@@ -5,11 +5,11 @@
 - 02 Areas/Diversity & Inclusion: 
     - [[02 Areas/Diversity & Inclusion/Dekolonisatie\|Dekolonisatie]]
     - [[02 Areas/Diversity & Inclusion/Disability studies\|Disability studies]]
+    - [[02 Areas/Diversity & Inclusion/Diversity & Inclusion\|Diversity & Inclusion]]
     - [[02 Areas/Diversity & Inclusion/Intersectionaliteit\|Intersectionaliteit]]
     - [[02 Areas/Diversity & Inclusion/Knowledge production\|Knowledge production]]
     - [[02 Areas/Diversity & Inclusion/Migration & integration research\|Migration & integration research]]
     - [[02 Areas/Diversity & Inclusion/Tijd als koloniaal product\|Tijd als koloniaal product]]
-    - [[02 Areas/Diversity & Inclusion/Diversity & Inclusion\|Diversity & Inclusion]]
 
 
 { .block-language-dataview}

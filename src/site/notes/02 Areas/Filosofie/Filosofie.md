@@ -3,10 +3,10 @@
 ---
 
 - 02 Areas/Filosofie: 
-    - [[02 Areas/Filosofie/Ubuntu\|Ubuntu]]
-    - [[02 Areas/Filosofie/The society of the spectacle\|The society of the spectacle]]
-    - [[02 Areas/Filosofie/Commodity fetishism\|Commodity fetishism]]
     - [[02 Areas/Filosofie/Filosofie\|Filosofie]]
+    - [[02 Areas/Filosofie/Ubuntu\|Ubuntu]]
+    - [[02 Areas/Filosofie/Commodity fetishism\|Commodity fetishism]]
+    - [[02 Areas/Filosofie/The society of the spectacle\|The society of the spectacle]]
 
 
 { .block-language-dataview}
