@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/introduction/","tags":["gardenEntry"],"noteIcon":"","created":"2025-01-01T18:55:18.732+01:00","updated":"2025-01-01T22:44:24.252+01:00"}
+{"dg-publish":true,"permalink":"/introduction/","noteIcon":"","created":"2025-01-01T18:55:18.732+01:00","updated":"2025-01-01T22:50:16.205+01:00"}
 ---
 
 Welcome to my digital swamp, my own private messy little [[personal knowledge management\|personal knowledge management]] system ><
