@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas/geneeskunde/pneumologie/copd/","noteIcon":"","created":"2024-11-24T10:57:15.811+01:00","updated":"2024-12-31T16:51:46.541+01:00"}
+{"dg-publish":true,"permalink":"/02-areas/geneeskunde/pneumologie/copd/","noteIcon":"","created":"2024-11-24T10:57:15.811+01:00","updated":"2025-01-01T21:59:14.326+01:00"}
 ---
 
 #Pneumologie 

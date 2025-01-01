@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas/geneeskunde/geneeskunde/","noteIcon":"","created":"2025-01-01T05:26:27.350+01:00","updated":"2025-01-01T06:07:11.236+01:00"}
+{"dg-publish":true,"permalink":"/02-areas/geneeskunde/geneeskunde/","noteIcon":"","created":"2025-01-01T05:26:27.350+01:00","updated":"2025-01-01T21:08:12.754+01:00"}
 ---
 
 - 02 Areas/Geneeskunde/Antibiotica: 
